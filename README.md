@@ -1,3 +1,14 @@
+# Objetivo do Trabalho
+
+Este projeto foi desenvolvido como parte da disciplina de Arquitetura de Computadores. O objetivo principal é implementar um sistema interativo utilizando um microcontrolador que demonstra a integração de diversos componentes eletrônicos e a leitura de sensores.
+
+O sistema permite o controle de LEDs, a emissão de sons por meio de um buzzer e a medição de temperatura e distância utilizando sensores. Essas funcionalidades foram escolhidas para ilustrar a versatilidade de um microcontrolador e a interação entre hardware e software.
+
+Além disso, o trabalho visa aprimorar as habilidades práticas em programação, leitura de dados de sensores e controle de dispositivos eletrônicos. Os alunos são incentivados a explorar conceitos fundamentais da eletrônica e da programação por meio da construção e programação deste sistema interativo.
+
+Por fim, este projeto serve como uma base sólida para futuros trabalhos mais complexos na área de automação e Internet das Coisas (IoT), preparando os alunos para desafios mais avançados nessa área em constante evolução.
+
+
 # Projeto de Controle de Dispositivos com Arduino
 
 Este projeto utiliza um microcontrolador Arduino para controlar dispositivos eletrônicos, como LEDs, um buzzer e sensores, por meio de comandos seriais e switches binários. O código é estruturado para responder a diferentes comandos e monitorar a temperatura e distância. A seguir, está uma explicação detalhada do funcionamento do código, bem como uma tabela de comandos e funções.
